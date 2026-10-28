@@ -6,7 +6,7 @@ Convex SaaS is a lightweight, feature-rich, and production-ready starter for you
 
 - [Live Demo](https://convex-saas.netlify.app)
 - [Introduction](./guide/01-introduction.md)
-- [Getting Started](https://github.com/get-convex/convex-saas/tree/main/docs#getting-started)
+- [Getting Started](https://github.com/convex/convex-saas/tree/main/docs#getting-started)
 - [Production Deployment](./guide/09-deployment.md)
 
 Check the [Guide](./guide) for full documentation.
